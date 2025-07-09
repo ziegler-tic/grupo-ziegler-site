@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ubicaciones - Grupo Ziegler</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header><h1>Nuestras Ubicaciones</h1></header>
+    <nav>
+        <a href="index.html">Inicio</a>
+        <a href="nosotros.html">Nosotros</a>
+        <a href="servicios.html">Servicios</a>
+        <a href="ubicaciones.html">Ubicaciones</a>
+        <a href="contacto.html">Contacto</a>
+    </nav>
+    <main>
+        <section>
+            <p>Contamos con oficinas en América, Europa y Asia.</p>
+        </section>
+    </main>
+    <footer><p>&copy; 2024 Grupo Ziegler</p></footer>
+</body>
+</html>
