@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Grupo Ziegler - Inicio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header><h1>Bienvenidos a Grupo Ziegler</h1></header>
+    <nav>
+        <a href="index.html">Inicio</a>
+        <a href="nosotros.html">Nosotros</a>
+        <a href="servicios.html">Servicios</a>
+        <a href="ubicaciones.html">Ubicaciones</a>
+        <a href="contacto.html">Contacto</a>
+    </nav>
+    <main>
+        <section>
+            <h2>Soluciones logísticas globales</h2>
+            <p>Conectamos el mundo a través de la logística eficiente y personalizada.</p>
+        </section>
+    </main>
+    <footer><p>&copy; 2024 Grupo Ziegler</p></footer>
+</body>
+</html>
