@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Servicios - Grupo Ziegler</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header><h1>Servicios</h1></header>
+    <nav>
+        <a href="index.html">Inicio</a>
+        <a href="nosotros.html">Nosotros</a>
+        <a href="servicios.html">Servicios</a>
+        <a href="ubicaciones.html">Ubicaciones</a>
+        <a href="contacto.html">Contacto</a>
+    </nav>
+    <main>
+        <section>
+            <h2>Qué ofrecemos</h2>
+            <ul>
+                <li>Transporte internacional</li>
+                <li>Logística personalizada</li>
+                <li>Almacenamiento y distribución</li>
+            </ul>
+        </section>
+    </main>
+    <footer><p>&copy; 2024 Grupo Ziegler</p></footer>
+</body>
+</html>
